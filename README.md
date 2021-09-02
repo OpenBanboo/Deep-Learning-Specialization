@@ -19,4 +19,4 @@ This repo contains my work for this specialization. The code base, quiz question
 ### Course 4: Convolutional Neural Networks
 
 ### Course 5: Sequence Models
-  - [Week 1 - Building a Recurrent Neural Network - Step by Step](https://github.com/OpenBanboo/Deep-Learning-Specialization/blob/main/Course5-Sequence-Models/Assignments/Week%201/W1A1_Building_a_Recurrent_Neural_Network_Step_by_Step/Building_a_Recurrent_Neural_Network_Step_by_Step.ipynb)
+  - [Week 1 - Building a Recurrent Neural Network - Step by Step](https://colab.research.google.com/github/OpenBanboo/Deep-Learning-Specialization/blob/main/Course5-Sequence-Models/Assignments/Week%201/W1A1_Building_a_Recurrent_Neural_Network_Step_by_Step/Building_a_Recurrent_Neural_Network_Step_by_Step.ipynb)
