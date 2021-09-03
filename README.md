@@ -20,3 +20,6 @@ This repo contains my work for this specialization. The code base, quiz question
 
 ### Course 5: Sequence Models
   - [Week 1 - Building a Recurrent Neural Network - Step by Step](https://colab.research.google.com/github/OpenBanboo/Deep-Learning-Specialization/blob/main/Course5-Sequence-Models/Assignments/Week%201/W1A1_Building_a_Recurrent_Neural_Network_Step_by_Step/Building_a_Recurrent_Neural_Network_Step_by_Step.ipynb)
+  - [Week 1 - Dinosaur Land -- Character-level Language Modeling](https://colab.research.google.com/github/OpenBanboo/Deep-Learning-Specialization/blob/main/Course5-Sequence-Models/Assignments/Week%201/W1A2_Dinosaurus_Island_Character_level_language_model/Dinosaurus_Island_Character_level_language_model.ipynb)
+  - [Week 1 - Jazz improvisation with LSTM](https://colab.research.google.com/github/OpenBanboo/Deep-Learning-Specialization/blob/main/Course5-Sequence-Models/Assignments/Week%201/W1A3_Improvise_a_Jazz_Solo_with_an_LSTM_Network/Improvise_a_Jazz_Solo_with_an_LSTM_Network_v4.ipynb)
+  - [Week 2 - Word Vector Representation and Debiasing](https://colab.research.google.com/github/OpenBanboo/Deep-Learning-Specialization/blob/main/Course5-Sequence-Models/Assignments/Week%202/W2A1_Operations_on_word_vectors/Operations_on_word_vectors_v2a.ipynb)
