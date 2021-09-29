@@ -24,8 +24,6 @@ This repo contains my work for this specialization. The code base, quiz question
   - [Week 2 - Optimization Methods](https://colab.research.google.com/github/OpenBanboo/Deep-Learning-Specialization/blob/main/Course2-Improving-Deep-Neural-Networks/Assignments/Week%202/W2A1_Optimization_methods/Optimization_methods.ipynb)
   - [Week 3 - Introduction to TensorFlow](https://colab.research.google.com/github/OpenBanboo/Deep-Learning-Specialization/blob/main/Course2-Improving-Deep-Neural-Networks/Assignments/Week%203/W3A1_Tensorflow_introduction/Tensorflow_introduction.ipynb)
 
-### Course 3: Structuring Machine Learning Projects
-
 ### Course 4: Convolutional Neural Networks
   - [Week 1 - Convolutional Neural Networks: Step by Step](https://colab.research.google.com/github/OpenBanboo/Deep-Learning-Specialization/blob/main/Course4-Convolutional-Neural-Networks/Assignments/Week%201/W1A1_Convolution_model_Step_by_Step/Convolution_model_Step_by_Step_v1.ipynb)
   - [Week 1 - Convolutional Neural Networks: Application](https://colab.research.google.com/github/OpenBanboo/Deep-Learning-Specialization/blob/main/Course4-Convolutional-Neural-Networks/Assignments/Week%201/W1A2_Convolution_Model_Application/Convolution_model_Application.ipynb)
