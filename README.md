@@ -11,8 +11,18 @@ This repo contains my work for this specialization. The code base, quiz question
 ## Programming Assignments
 
 ### Course 1: Neural Networks and Deep Learning
+  - [Week 2 - Python Basics with Numpy](https://colab.research.google.com/github/OpenBanboo/Deep-Learning-Specialization/blob/main/Course1-Neural-Networks-and-Deep-Learning/Assignments/Week%202/W2A1_Python_Basics_with_Numpy/Python_Basics_with_Numpy.ipynb)
+  - [Week 2 - Logistic Regression with a Neural Network mindset](https://colab.research.google.com/github/OpenBanboo/Deep-Learning-Specialization/blob/main/Course1-Neural-Networks-and-Deep-Learning/Assignments/Week%202/W2A2_Logistic_Regression_with_a_Neural_Network_mindset/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
+  - [Week 3 - Planar data classification with one hidden layer](https://colab.research.google.com/github/OpenBanboo/Deep-Learning-Specialization/blob/main/Course1-Neural-Networks-and-Deep-Learning/Assignments/Week%203/W3A1_Planar_data_classification_with_one_hidden_layer/Planar_data_classification_with_one_hidden_layer-2.ipynb)
+  - [Week 4 - Building your Deep Neural Network: Step by Step](https://colab.research.google.com/github/OpenBanboo/Deep-Learning-Specialization/blob/main/Course1-Neural-Networks-and-Deep-Learning/Assignments/Week%204/W4A1_Building_your_Deep_Neural_Network_Step_by_Step/Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
+  - [Week 4 - Deep Neural Network for Image Classification: Application](https://colab.research.google.com/github/OpenBanboo/Deep-Learning-Specialization/blob/main/Course1-Neural-Networks-and-Deep-Learning/Assignments/Week%204/W4A2_Deep_Neural_Network_Application/Deep%20Neural%20Network%20-%20Application.ipynb)
 
 ### Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+  - [Week 1 - Initialization](https://colab.research.google.com/github/OpenBanboo/Deep-Learning-Specialization/blob/main/Course2-Improving-Deep-Neural-Networks/Assignments/Week%201/W1A1_Initialization/Initialization.ipynb)
+  - [Week 1 - Regularization](https://colab.research.google.com/github/OpenBanboo/Deep-Learning-Specialization/blob/main/Course2-Improving-Deep-Neural-Networks/Assignments/Week%201/W1A2_Regularization/Regularization.ipynb)
+  - [Week 1 - Gradient Checking](https://colab.research.google.com/github/OpenBanboo/Deep-Learning-Specialization/blob/main/Course2-Improving-Deep-Neural-Networks/Assignments/Week%201/W1A3_Gradient_Checking/Gradient_Checking.ipynb)
+  - [Week 2 - Optimization Methods](https://colab.research.google.com/github/OpenBanboo/Deep-Learning-Specialization/blob/main/Course2-Improving-Deep-Neural-Networks/Assignments/Week%202/W2A1_Optimization_methods/Optimization_methods.ipynb)
+  - [Week 3 - Introduction to TensorFlow](https://colab.research.google.com/github/OpenBanboo/Deep-Learning-Specialization/blob/main/Course2-Improving-Deep-Neural-Networks/Assignments/Week%203/W3A1_Tensorflow_introduction/Tensorflow_introduction.ipynb)
 
 ### Course 3: Structuring Machine Learning Projects
 
